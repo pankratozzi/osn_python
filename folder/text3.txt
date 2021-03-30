@@ -1,0 +1,8 @@
+petrov 22000
+sidorov 18000
+ivanov 21000
+sergeev 15000
+dolgova 19000
+popov 12000
+gurova 30000
+Average salary: 19571.43 = 2021-03-30 22:33:14.254510:33.147192
