@@ -1,0 +1,4 @@
+firm1 OOO 100 50
+firm2 PAO 200 80
+firm3 AO 150 200
+firm4 PAO 200 20
